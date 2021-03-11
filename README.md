@@ -2,6 +2,8 @@
 **EorzeaTime**は、FFXIVを起動しながら裏で作業をするときなどに、いちいちゲーム画面に変更することなくET(エオルゼアタイム)を確認するのに便利なツールです。  
 [**Pause**](https://so-zou.jp/software/pause/)などウィンドウを常に最前面に表示できるアプリケーションと組み合わせて使用すると便利です。
 
+[**最新版**](https://github.com/ikesan009/EorzeaTime/archive/1.0.0.zip)のダウンロード
+
 # Requirement (必要動作環境)
 * [Python 3.x](https://www.python.org/) (**必ずPathを通すこと！**)
 
