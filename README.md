@@ -6,8 +6,8 @@
 * [Python 3.x](https://www.python.org/) (**必ずPathを通すこと！**)
 
 # Usage (利用方法)
-**EorzeaTime.zip**を展開し、含まれているバッチファイル**EorzeaTime.bat**をダブルクリックして実行するだけです。  
-**EorzeaTime**フォルダをどこかにしまって、**EorzeaTime.bat**バッチファイルへのショートカットを用意すると整理上手に使えるかもしれません。
+**EorzeaTime.zip**を展開し、含まれている**EorzeaTime.bat**をダブルクリックして実行するだけです。  
+**EorzeaTime**フォルダをどこかにしまって、**EorzeaTime.bat**へのショートカットを用意すると整理上手に使えるかもしれません。
 
 ![スクリーンショット 2021-03-11 210142](https://user-images.githubusercontent.com/30005561/110784408-00d76000-82ad-11eb-9304-8bc818e4e4d0.png)
 
